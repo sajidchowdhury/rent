@@ -1,0 +1,1012 @@
+[15-Feb-2024 12:55:53 Asia/Dhaka] PHP Warning:  Undefined variable $formatted_data in /home3/osudlagb/public_html/products/HOME-RENT/home.php on line 195
+[15-Feb-2024 13:21:47 Asia/Dhaka] PHP Warning:  Undefined variable $formatted_data in /home3/osudlagb/public_html/products/HOME-RENT/home.php on line 195
+[15-Feb-2024 15:40:02 Asia/Dhaka] PHP Warning:  Undefined variable $formatted_data in /home3/osudlagb/public_html/products/HOME-RENT/home.php on line 195
+[15-Feb-2024 16:18:51 Asia/Dhaka] PHP Warning:  Undefined variable $formatted_data in /home3/osudlagb/public_html/products/HOME-RENT/home.php on line 195
+[15-Feb-2024 03:21:12 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 16
+[15-Feb-2024 03:21:12 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[15-Feb-2024 03:21:12 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(NULL)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[15-Feb-2024 03:42:01 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 16
+[15-Feb-2024 03:42:01 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[15-Feb-2024 03:42:01 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(NULL)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[15-Feb-2024 18:34:12 Asia/Dhaka] PHP Warning:  Undefined variable $formatted_data in /home3/osudlagb/public_html/products/HOME-RENT/home.php on line 195
+[16-Feb-2024 01:07:11 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1257
+[16-Feb-2024 01:07:11 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1258
+[16-Feb-2024 01:07:11 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1259
+[16-Feb-2024 01:07:11 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1260
+[16-Feb-2024 01:07:11 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1261
+[18-Feb-2024 12:13:35 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[18-Feb-2024 12:13:35 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[18-Feb-2024 12:13:38 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[18-Feb-2024 12:13:38 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[21-Feb-2024 15:29:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1257
+[21-Feb-2024 15:29:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1258
+[21-Feb-2024 15:29:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1259
+[21-Feb-2024 15:29:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1260
+[21-Feb-2024 15:29:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1261
+[21-Feb-2024 19:22:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1257
+[21-Feb-2024 19:22:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1258
+[21-Feb-2024 19:22:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1259
+[21-Feb-2024 19:22:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1260
+[21-Feb-2024 19:22:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1261
+[24-Feb-2024 12:55:52 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method SETUP::CUSTOMER_SETUP() in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php:839
+Stack trace:
+#0 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 839
+[24-Feb-2024 12:56:02 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method SETUP::CUSTOMER_SETUP() in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php:839
+Stack trace:
+#0 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 839
+[23-Feb-2024 23:58:10 America/Boise] PHP Parse error:  syntax error, unexpected identifier "clinet_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 848
+[24-Feb-2024 02:30:44 America/Boise] PHP Parse error:  Unmatched '}' in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 970
+[24-Feb-2024 02:31:03 America/Boise] PHP Parse error:  Unmatched '}' in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 970
+[24-Feb-2024 02:33:35 America/Boise] PHP Parse error:  Unclosed '{' on line 264 in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 314
+[26-Feb-2024 03:02:46 America/Boise] PHP Parse error:  syntax error, unexpected string content "<td style="padding-" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 434
+[27-Feb-2024 13:43:00 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1257
+[27-Feb-2024 13:43:00 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1258
+[27-Feb-2024 13:43:00 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1259
+[27-Feb-2024 13:43:00 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1260
+[27-Feb-2024 13:43:00 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1261
+[28-Feb-2024 21:49:06 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:49:06 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:49:35 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:49:35 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 08:50:03 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(43)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[28-Feb-2024 08:50:07 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 16
+[28-Feb-2024 08:50:07 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[28-Feb-2024 08:50:07 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(NULL)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[28-Feb-2024 08:50:08 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 16
+[28-Feb-2024 08:50:08 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[28-Feb-2024 08:50:08 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(NULL)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[28-Feb-2024 21:54:19 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:54:19 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:54:51 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:54:51 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:54:57 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:54:57 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:55:09 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:55:09 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:55:19 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:55:19 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:55:24 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:55:24 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:55:34 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:55:34 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:55:55 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:55:55 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:07 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:07 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:14 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:14 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:42 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:42 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:45 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:45 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:48 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:48 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:52 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:52 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:56 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:56 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:59 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:56:59 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:03 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:03 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:07 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:07 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:10 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:10 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:14 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:14 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:18 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:18 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:34 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:34 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:37 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:37 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:40 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:40 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:43 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:43 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:46 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:46 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:49 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:49 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:53 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:53 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:57 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:57:57 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:00 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:00 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:04 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:04 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:19 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:19 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:23 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:23 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:26 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:26 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:29 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:29 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:32 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:32 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:36 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:36 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:39 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:39 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:43 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:43 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:46 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[28-Feb-2024 21:58:46 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[01-Mar-2024 01:47:08 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 88
+[01-Mar-2024 01:47:08 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 92
+[01-Mar-2024 01:47:11 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 88
+[01-Mar-2024 01:47:11 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 92
+[01-Mar-2024 01:47:18 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 88
+[01-Mar-2024 01:47:18 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 92
+[02-Mar-2024 21:08:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 21:08:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 21:08:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 21:08:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 21:08:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 21:11:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 21:11:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 21:11:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 21:11:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 21:11:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 21:12:13 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 21:12:13 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 21:12:13 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 21:12:13 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 21:12:13 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 21:26:39 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 21:26:39 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 21:26:39 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 21:26:39 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 21:26:39 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 21:26:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 21:26:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 21:26:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 21:26:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 21:26:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 21:47:58 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 21:47:58 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 21:47:58 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 21:47:58 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 21:47:58 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 21:48:13 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 21:48:13 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 21:48:13 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 21:48:13 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 21:48:13 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 21:49:25 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 21:49:25 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 21:49:25 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 21:49:25 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 21:49:25 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 21:49:32 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 21:49:32 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 21:49:32 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 21:49:32 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 21:49:32 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 21:49:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 21:49:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 21:49:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 21:49:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 21:49:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 22:40:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 22:40:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 22:40:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 22:40:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 22:40:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 22:41:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 22:41:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 22:41:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 22:41:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 22:41:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 22:42:24 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 22:42:24 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 22:42:24 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 22:42:24 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 22:42:24 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 22:46:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 22:46:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 22:46:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 22:46:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 22:46:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 22:49:01 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 22:49:01 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 22:49:01 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 22:49:01 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 22:49:01 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 22:52:17 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 22:52:17 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 22:52:17 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 22:52:17 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 22:52:17 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 23:02:34 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 23:02:34 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 23:02:34 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 23:02:34 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 23:02:34 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 23:03:00 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 23:03:00 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 23:03:00 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 23:03:00 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 23:03:00 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[02-Mar-2024 23:03:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[02-Mar-2024 23:03:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[02-Mar-2024 23:03:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[02-Mar-2024 23:03:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[02-Mar-2024 23:03:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[03-Mar-2024 02:50:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[03-Mar-2024 02:50:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[03-Mar-2024 02:50:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[03-Mar-2024 02:50:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[03-Mar-2024 02:50:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[03-Mar-2024 02:50:15 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[03-Mar-2024 02:50:15 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[03-Mar-2024 02:50:15 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[03-Mar-2024 02:50:15 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[03-Mar-2024 02:50:15 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[03-Mar-2024 02:50:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[03-Mar-2024 02:50:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[03-Mar-2024 02:50:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[03-Mar-2024 02:50:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[03-Mar-2024 02:50:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[04-Mar-2024 13:10:37 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 47
+[04-Mar-2024 13:10:37 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 51
+[04-Mar-2024 13:10:41 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 47
+[04-Mar-2024 13:10:41 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 51
+[04-Mar-2024 13:10:43 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 47
+[04-Mar-2024 13:10:43 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 51
+[05-Mar-2024 17:48:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[05-Mar-2024 17:48:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[05-Mar-2024 17:48:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[05-Mar-2024 17:48:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[05-Mar-2024 17:48:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[05-Mar-2024 17:48:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[05-Mar-2024 17:48:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[05-Mar-2024 17:48:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[05-Mar-2024 17:48:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[05-Mar-2024 17:48:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[06-Mar-2024 16:52:16 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1235
+[06-Mar-2024 16:52:16 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1236
+[06-Mar-2024 16:52:16 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1237
+[06-Mar-2024 16:52:16 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1238
+[06-Mar-2024 16:52:16 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1239
+[07-Mar-2024 11:09:27 Asia/Dhaka] PHP Parse error:  Unclosed '{' on line 38 in /home3/osudlagb/public_html/products/HOME-RENT/Bank-Statement.php on line 92
+[07-Mar-2024 11:14:52 Asia/Dhaka] PHP Warning:  Undefined variable $QUERY in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 307
+[07-Mar-2024 11:17:59 Asia/Dhaka] PHP Warning:  Undefined variable $QUERY in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 307
+[07-Mar-2024 11:20:03 Asia/Dhaka] PHP Warning:  Undefined variable $QUERY in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 307
+[06-Mar-2024 22:25:11 America/Boise] PHP Parse error:  syntax error, unexpected identifier "account_number" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 289
+[07-Mar-2024 11:27:33 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method FIND::BANK_STATEMENT() in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php:273
+Stack trace:
+#0 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 273
+[07-Mar-2024 11:27:36 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method FIND::BANK_STATEMENT() in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php:273
+Stack trace:
+#0 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 273
+[07-Mar-2024 11:28:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method FIND::BANK_STATEMENT() in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php:273
+Stack trace:
+#0 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 273
+[07-Mar-2024 11:31:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method FIND::BANK_STATEMENT() in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php:273
+Stack trace:
+#0 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 273
+[07-Mar-2024 13:11:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1447
+[07-Mar-2024 13:11:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1448
+[07-Mar-2024 13:11:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1449
+[07-Mar-2024 13:11:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1450
+[07-Mar-2024 13:11:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1451
+[07-Mar-2024 13:11:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1452
+[07-Mar-2024 13:11:56 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1454
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Undefined variable $date_from in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 564
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Undefined variable $date_to in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 564
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Undefined variable $date_from in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 577
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Undefined variable $date_to in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 577
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Undefined variable $date_from in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 588
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Undefined variable $date_to in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 588
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1528
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1529
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1530
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1531
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1532
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1533
+[07-Mar-2024 14:47:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1535
+[07-Mar-2024 14:49:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1528
+[07-Mar-2024 14:49:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1529
+[07-Mar-2024 14:49:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1530
+[07-Mar-2024 14:49:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1531
+[07-Mar-2024 14:49:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1532
+[07-Mar-2024 14:49:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1533
+[07-Mar-2024 14:49:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1535
+[07-Mar-2024 17:23:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1476
+[07-Mar-2024 17:23:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1477
+[07-Mar-2024 17:23:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1478
+[07-Mar-2024 17:23:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1479
+[07-Mar-2024 17:23:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1480
+[11-Mar-2024 12:03:13 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 47
+[11-Mar-2024 12:03:13 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 51
+[11-Mar-2024 12:03:14 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 47
+[11-Mar-2024 12:03:14 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 51
+[11-Mar-2024 12:03:15 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 47
+[11-Mar-2024 12:03:15 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 51
+[11-Mar-2024 12:03:23 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 47
+[11-Mar-2024 12:03:23 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 51
+[11-Mar-2024 12:05:05 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 47
+[11-Mar-2024 12:05:05 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 51
+[11-Mar-2024 17:34:03 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1528
+[11-Mar-2024 17:34:03 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1529
+[11-Mar-2024 17:34:03 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1530
+[11-Mar-2024 17:34:03 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1531
+[11-Mar-2024 17:34:03 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1532
+[11-Mar-2024 17:34:03 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1533
+[11-Mar-2024 17:34:03 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1535
+[12-Mar-2024 02:30:02 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY STR_TO_DATE(link, '%M %Y')' at line 13 in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php:751
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php(751): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 751
+[12-Mar-2024 02:30:06 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY STR_TO_DATE(link, '%M %Y')' at line 13 in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php:751
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php(751): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 751
+[12-Mar-2024 02:54:21 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[12-Mar-2024 02:54:21 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[12-Mar-2024 04:05:18 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[12-Mar-2024 04:05:18 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[17-Mar-2024 22:21:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1477
+[17-Mar-2024 22:21:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1478
+[17-Mar-2024 22:21:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1479
+[17-Mar-2024 22:21:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1480
+[17-Mar-2024 22:21:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1481
+[17-Mar-2024 22:24:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1477
+[17-Mar-2024 22:24:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1478
+[17-Mar-2024 22:24:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1479
+[17-Mar-2024 22:24:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1480
+[17-Mar-2024 22:24:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1481
+[19-Mar-2024 12:02:54 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 47
+[19-Mar-2024 12:02:54 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 51
+[19-Mar-2024 12:02:59 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 47
+[19-Mar-2024 12:02:59 Asia/Dhaka] PHP Warning:  Undefined array key "client_id" in /home3/osudlagb/public_html/products/HOME-RENT/function_tem.php on line 51
+[19-Mar-2024 12:03:45 Asia/Dhaka] PHP Warning:  Undefined array key 1 in /home3/osudlagb/public_html/products/HOME-RENT/form_action.php on line 541
+[19-Mar-2024 12:22:17 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[19-Mar-2024 12:22:17 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[22-Mar-2024 12:32:44 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1487
+[22-Mar-2024 12:32:44 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1488
+[22-Mar-2024 12:32:44 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[22-Mar-2024 12:32:44 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[22-Mar-2024 12:32:44 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[22-Mar-2024 12:39:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1487
+[22-Mar-2024 12:39:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1488
+[22-Mar-2024 12:39:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[22-Mar-2024 12:39:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[22-Mar-2024 12:39:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[22-Mar-2024 12:41:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1487
+[22-Mar-2024 12:41:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1488
+[22-Mar-2024 12:41:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[22-Mar-2024 12:41:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[22-Mar-2024 12:41:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[22-Mar-2024 23:57:16 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[22-Mar-2024 23:57:16 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[22-Mar-2024 23:57:16 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[22-Mar-2024 23:57:16 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[22-Mar-2024 23:57:16 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[22-Mar-2024 23:58:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[22-Mar-2024 23:58:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[22-Mar-2024 23:58:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[22-Mar-2024 23:58:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[22-Mar-2024 23:58:23 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[24-Mar-2024 11:40:24 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[24-Mar-2024 11:40:24 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[24-Mar-2024 11:40:24 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[24-Mar-2024 11:40:24 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[24-Mar-2024 11:40:24 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[23-Mar-2024 23:56:56 America/Boise] PHP Parse error:  syntax error, unexpected double-quoted string "<br>" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 119
+[24-Mar-2024 11:58:18 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:47 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Undefined array key "client_name" in /home3/osudlagb/public_html/products/HOME-RENT/generate_report.php on line 118
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[24-Mar-2024 11:58:48 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[24-Mar-2024 12:00:26 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[24-Mar-2024 12:00:26 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[24-Mar-2024 12:00:26 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[24-Mar-2024 12:00:26 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[24-Mar-2024 12:00:26 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[24-Mar-2024 12:01:30 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[24-Mar-2024 12:01:30 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[24-Mar-2024 12:01:30 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[24-Mar-2024 12:01:30 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[24-Mar-2024 12:01:30 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[24-Mar-2024 12:13:52 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[24-Mar-2024 12:13:52 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[24-Mar-2024 12:13:52 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[24-Mar-2024 12:13:52 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[24-Mar-2024 12:13:52 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[24-Mar-2024 12:17:42 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[24-Mar-2024 12:17:42 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[24-Mar-2024 12:17:42 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[24-Mar-2024 12:17:42 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[24-Mar-2024 12:17:42 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[24-Mar-2024 12:19:08 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[24-Mar-2024 12:19:08 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[24-Mar-2024 12:19:08 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[24-Mar-2024 12:19:08 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[24-Mar-2024 12:19:08 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[25-Mar-2024 17:31:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1541
+[25-Mar-2024 17:31:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1542
+[25-Mar-2024 17:31:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1543
+[25-Mar-2024 17:31:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1544
+[25-Mar-2024 17:31:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1545
+[25-Mar-2024 17:31:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1546
+[25-Mar-2024 17:31:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1548
+[28-Mar-2024 00:54:30 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[28-Mar-2024 00:54:30 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[28-Mar-2024 00:54:30 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[28-Mar-2024 00:54:30 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[28-Mar-2024 00:54:30 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[28-Mar-2024 00:54:35 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[28-Mar-2024 00:54:35 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[28-Mar-2024 00:54:35 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[28-Mar-2024 00:54:35 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[28-Mar-2024 00:54:35 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[28-Mar-2024 01:21:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1489
+[28-Mar-2024 01:21:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1490
+[28-Mar-2024 01:21:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1491
+[28-Mar-2024 01:21:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1492
+[28-Mar-2024 01:21:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[28-Mar-2024 02:04:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[28-Mar-2024 02:04:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1494
+[28-Mar-2024 02:04:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1495
+[28-Mar-2024 02:04:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1496
+[28-Mar-2024 02:04:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1497
+[28-Mar-2024 02:05:27 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[28-Mar-2024 02:05:27 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1494
+[28-Mar-2024 02:05:27 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1495
+[28-Mar-2024 02:05:27 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1496
+[28-Mar-2024 02:05:27 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1497
+[28-Mar-2024 02:07:53 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[28-Mar-2024 02:07:53 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[28-Mar-2024 02:13:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[28-Mar-2024 02:13:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1494
+[28-Mar-2024 02:13:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1495
+[28-Mar-2024 02:13:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1496
+[28-Mar-2024 02:13:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1497
+[28-Mar-2024 02:26:37 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[28-Mar-2024 02:26:37 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1494
+[28-Mar-2024 02:26:37 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1495
+[28-Mar-2024 02:26:37 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1496
+[28-Mar-2024 02:26:37 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1497
+[28-Mar-2024 02:27:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[28-Mar-2024 02:27:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1494
+[28-Mar-2024 02:27:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1495
+[28-Mar-2024 02:27:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1496
+[28-Mar-2024 02:27:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1497
+[28-Mar-2024 12:12:48 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[28-Mar-2024 12:12:48 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1494
+[28-Mar-2024 12:12:48 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1495
+[28-Mar-2024 12:12:48 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1496
+[28-Mar-2024 12:12:48 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1497
+[28-Mar-2024 23:03:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[28-Mar-2024 23:03:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1494
+[28-Mar-2024 23:03:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1495
+[28-Mar-2024 23:03:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1496
+[28-Mar-2024 23:03:06 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1497
+[09-Apr-2024 02:00:22 Asia/Dhaka] PHP Warning:  Undefined array key 1 in /home3/osudlagb/public_html/products/HOME-RENT/form_action.php on line 541
+[09-Apr-2024 11:18:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1493
+[09-Apr-2024 11:18:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1494
+[09-Apr-2024 11:18:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1495
+[09-Apr-2024 11:18:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1496
+[09-Apr-2024 11:18:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1497
+[04-May-2024 00:28:19 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(43)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[04-May-2024 00:28:22 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 16
+[04-May-2024 00:28:22 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[04-May-2024 00:28:22 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(NULL)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[04-May-2024 01:13:18 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 16
+[04-May-2024 01:13:18 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[04-May-2024 01:13:18 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(NULL)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[05-May-2024 00:55:43 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(43)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[05-May-2024 02:26:20 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 16
+[05-May-2024 02:26:20 America/Boise] PHP Warning:  Undefined array key "RENT_COLL_SESS_MEMBER_ID" in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[05-May-2024 02:26:20 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(NULL)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[05-May-2024 02:50:18 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(43)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[25-May-2024 11:19:11 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[25-May-2024 11:19:11 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[25-May-2024 11:21:47 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[25-May-2024 11:21:47 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[24-May-2024 23:28:03 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(43)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[07-Jun-2024 11:49:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1545
+[07-Jun-2024 11:49:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1546
+[07-Jun-2024 11:49:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1547
+[07-Jun-2024 11:49:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1548
+[07-Jun-2024 11:49:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1549
+[07-Jun-2024 11:49:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1550
+[07-Jun-2024 11:49:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1552
+[09-Jun-2024 20:56:39 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[09-Jun-2024 20:56:39 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[10-Jun-2024 01:56:28 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[10-Jun-2024 01:56:28 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[03-Jul-2024 10:49:13 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[03-Jul-2024 10:49:13 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[03-Jul-2024 10:55:12 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[03-Jul-2024 10:55:12 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[16-Jul-2024 08:16:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1545
+[16-Jul-2024 08:16:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1546
+[16-Jul-2024 08:16:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1547
+[16-Jul-2024 08:16:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1548
+[16-Jul-2024 08:16:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1549
+[16-Jul-2024 08:16:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1550
+[16-Jul-2024 08:16:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1552
+[27-Jul-2024 15:19:54 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[27-Jul-2024 15:19:54 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[14-Aug-2024 15:21:21 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1545
+[14-Aug-2024 15:21:21 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1546
+[14-Aug-2024 15:21:21 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1547
+[14-Aug-2024 15:21:21 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1548
+[14-Aug-2024 15:21:21 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1549
+[14-Aug-2024 15:21:21 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1550
+[14-Aug-2024 15:21:21 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type bool in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 1552
+[18-Sep-2024 11:34:26 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[18-Sep-2024 11:34:26 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[18-Sep-2024 11:50:33 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[18-Sep-2024 11:50:33 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[25-Sep-2024 08:27:16 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php:22
+Stack trace:
+#0 /home3/osudlagb/public_html/products/HOME-RENT/logout.php(22): session_unset(43)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[29-Sep-2024 13:21:36 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[29-Sep-2024 13:21:36 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[07-Oct-2024 13:34:10 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[07-Oct-2024 13:34:10 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[04-Nov-2024 12:47:06 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[04-Nov-2024 12:47:06 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[12-Nov-2024 12:02:11 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[12-Nov-2024 12:02:11 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[12-Nov-2024 12:03:42 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[12-Nov-2024 12:03:42 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[30-Nov-2024 11:10:58 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[30-Nov-2024 11:10:58 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[18-Dec-2024 13:36:57 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[18-Dec-2024 13:36:57 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[19-Dec-2024 01:11:00 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[19-Dec-2024 01:11:00 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[15-Jan-2025 11:01:36 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[15-Jan-2025 11:01:36 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[23-Jan-2025 13:19:23 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[23-Jan-2025 13:19:23 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[23-Jan-2025 13:22:17 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[23-Jan-2025 13:22:17 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[25-Jan-2025 13:41:21 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[25-Jan-2025 13:41:21 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[17-Mar-2025 20:36:05 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[17-Mar-2025 20:36:05 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[17-Mar-2025 20:38:26 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[17-Mar-2025 20:38:26 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[22-Mar-2025 12:05:18 Asia/Dhaka] PHP Warning:  Undefined array key "rent_month" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[22-Mar-2025 12:05:18 Asia/Dhaka] PHP Warning:  Undefined array key "rent_year" in /home3/osudlagb/public_html/products/HOME-RENT/function_query.php on line 888
+[22-Mar-2025 12:28:08 Asia/Dhaka] PHP Warning:  include(Client.php): Failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[22-Mar-2025 12:28:08 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[23-Apr-2025 12:11:56 Asia/Dhaka] PHP Warning:  include(Client.php): failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[23-Apr-2025 12:11:56 Asia/Dhaka] PHP Warning:  include(Client.php): failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[23-Apr-2025 12:11:56 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[26-May-2025 00:18:04 America/Boise] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 22
+[26-May-2025 00:18:04 America/Boise] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home3/osudlagb/public_html/products/HOME-RENT/logout.php on line 23
+[06-Sep-2025 19:01:50 Asia/Dhaka] PHP Warning:  include(Client.php): failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[06-Sep-2025 19:01:50 Asia/Dhaka] PHP Warning:  include(Client.php): failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[06-Sep-2025 19:01:50 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[20-Jun-2026 20:04:11 Asia/Dhaka] PHP Warning:  include(Client.php): failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[20-Jun-2026 20:04:11 Asia/Dhaka] PHP Warning:  include(Client.php): failed to open stream: No such file or directory in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40
+[20-Jun-2026 20:04:11 Asia/Dhaka] PHP Warning:  include(): Failed opening 'Client.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/osudlagb/public_html/products/HOME-RENT/setup.php on line 40

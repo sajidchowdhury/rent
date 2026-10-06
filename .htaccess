@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+ErrorDocument 404 '/HOME-RENT/'
+RewriteRule ^home/([0-9a-zA-Z_\-]+)$ home.php?page_identity=$1 [NC,L]
+RewriteRule ^setup/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ setup.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^report/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ report.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^login/([0-9a-zA-Z_\-]+) login.php?error=$1 [NC,L]
+
